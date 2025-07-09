@@ -24,7 +24,7 @@ This project dives into sales transactions and customer purchase data to identif
 ## 🚦 How to Use
 
 - Clone or download this repository  
-- Open the Tableau workbook  
+- Open the Tableau workbook and connect to the DataSource
 - Use the filters, date sliders, and drilldowns to explore insights interactively
 
 ## 👤 Author
